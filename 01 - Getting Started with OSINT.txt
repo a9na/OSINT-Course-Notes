@@ -1,0 +1,30 @@
+Getting Started with OSINT
+
+OSINT stands for Open Source Intelligence. It is the practice of finding, collecting, and analyzing information that is publicly available. This does not involve hacking or gaining unauthorized access to systems. Instead, it focuses on making the most of information that already exists online.
+
+OSINT is used by many different people. Security professionals use it during penetration tests and security assessments. Journalists use it to verify information before publishing stories. Businesses use it to learn more about competitors or identify security risks. Law enforcement and investigators also rely on OSINT to support investigations.
+
+The most important thing to understand is that OSINT is more about thinking than using tools. Anyone can search Google, but not everyone knows how to connect pieces of information together to build a complete picture.
+
+An investigation usually starts with one small piece of information such as a name, username, email address, phone number, or photo. From there, each discovery can lead to another.
+
+Example:
+
+Name
+↓
+LinkedIn Profile
+↓
+Company Website
+↓
+Email Format
+↓
+Employee Directory
+
+Always verify information using multiple sources before treating it as fact.
+
+Key Points
+
+• OSINT uses public information.
+• Small details often lead to larger discoveries.
+• Verification is just as important as collection.
+• Stay organized from the very beginning.
