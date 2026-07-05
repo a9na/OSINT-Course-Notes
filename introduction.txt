@@ -1,0 +1,36 @@
+Introduction
+
+Open Source Intelligence, also known as OSINT, is the process of collecting and analyzing information that is publicly available. It does not involve hacking or bypassing security. Instead, it focuses on using information that people, companies, and organizations have already made available online.
+
+OSINT is used in many different fields. Security professionals use it during penetration tests and security assessments. Journalists use it to verify information and investigate stories. Law enforcement uses it to support investigations. Businesses use it to learn about competitors, identify risks, and protect their own information.
+
+The goal of learning OSINT is not to memorize hundreds of websites. New tools appear every year and old ones disappear. The real skill is learning how to think like an investigator. Good investigators know how to ask the right questions, follow leads, verify information, and document everything they discover.
+
+A typical investigation starts with a small amount of information. This could be a name, an email address, a username, a phone number, or even a photograph. That single piece of information can often lead to many others.
+
+Examples:
+
+• Username → Social media accounts
+• Email → Company profiles
+• Phone number → Public business listings
+• Image → Location or date taken
+• Name → News articles and public records
+
+One important rule is to avoid making assumptions. Finding one matching profile does not automatically mean it belongs to the correct person. Every discovery should be confirmed using multiple independent sources.
+
+Good OSINT habits include:
+
+• Stay organized
+• Save sources
+• Verify information
+• Keep detailed notes
+• Respect privacy and local laws
+
+OSINT is less about using special software and more about developing a systematic approach to finding information.
+
+Key Takeaways
+
+• OSINT uses publicly available information.
+• Verification is more important than speed.
+• Always document your findings.
+• Think like an investigator, not just a search engine user.
