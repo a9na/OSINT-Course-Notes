@@ -1,0 +1,26 @@
+Understanding OSINT Fundamentals
+
+Public information exists almost everywhere. The challenge is knowing where to look and how to connect different pieces together.
+
+Some of the most useful OSINT sources include search engines, social media platforms, public government databases, business records, archived websites, maps, and technical information such as domain registrations.
+
+Each source provides only part of the story. A social media profile may reveal hobbies, while LinkedIn may reveal employment history. Public records can provide addresses, and company websites may reveal employee email formats.
+
+The goal is to combine information from different places until a clear picture begins to form.
+
+A simple investigation often follows these steps:
+
+1. Identify your starting point.
+2. Search multiple sources.
+3. Compare the information.
+4. Look for connections.
+5. Record your findings.
+6. Verify everything before drawing conclusions.
+
+Avoid relying on a single website. The strongest conclusions come from information that appears consistently across multiple independent sources.
+
+Things to Remember
+
+• One source is rarely enough.
+• Patterns are often more valuable than individual facts.
+• Organization makes investigations much easier.
